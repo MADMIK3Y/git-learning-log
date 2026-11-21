@@ -11,3 +11,11 @@ Learn Git fundamentals by creating a repository, tracking changes, working with 
 
 ## What I Want to Learn
 Understand how Git tracks project changes and how developers work safely with different versions.
+
+
+## What I Learned Today
+
+- Git tracks changes to files over time.
+- `git add` stages changes for the next commit.
+- `git commit` records a snapshot of staged changes.
+
