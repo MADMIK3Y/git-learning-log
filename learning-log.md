@@ -17,4 +17,6 @@ Understand how Git tracks project changes and how developers work safely with di
 
 - Git is like a time machine for my files.
 - Every commit is a snapshot I can return to.
-
+- Git tracks changes to files over time.
+- Branches allow developers to work on features independently.
+- Merge conflicts happen when Git cannot automatically combine changes.
