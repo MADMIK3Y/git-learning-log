@@ -15,7 +15,6 @@ Understand how Git tracks project changes and how developers work safely with di
 
 ## What I Learned Today
 
-- Git tracks changes to files over time.
-- `git add` stages changes for the next commit.
-- `git commit` records a snapshot of staged changes.
+- Git is like a time machine for my files.
+- Every commit is a snapshot I can return to.
 
